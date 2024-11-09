@@ -1,6 +1,13 @@
 # Egyption-Streets
 ## This site displays all world news in all fields, football, investment policy, and other things
 
+## Technologies Used
+
+- **HTML**: For the webpage structure.
+- **CSS**: Custom styles for additional designs.
+- **Bootstrap CSS**: For utility-first CSS and responsive styling.
+- **JavaScript**: For interactivity and animations.
+
 ## Getting Started with Bootstrap
 
 This guide provides the steps to integrate and use Bootstrap in this project.
