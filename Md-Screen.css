@@ -1,0 +1,42 @@
+@media (min-width: 767px) and (max-width: 992px) {
+
+    .img-Ads {
+        padding: 0!important;
+    }
+
+    .input-Email,
+    .btn-Subscribe-e {
+        width: 100% !important;
+    }
+
+    .border-b {
+        border: none !important;
+    }
+
+    .section-recommended h2,
+    .section-Email-Address h2 {
+        font-size: 2rem;
+    }
+
+    .line-clamp,
+    .line-clamp-5,
+    .line-clamp-8 {
+        display: none;
+    }
+
+    .line-clamp-4 {
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .title-lg-cart {
+        font-size: 1.375rem;
+    }
+}
